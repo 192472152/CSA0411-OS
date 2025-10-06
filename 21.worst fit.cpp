@@ -1,9 +1,3 @@
-/* 
- ============================================================================
-    C Program to Implement Worst Fit Memory Allocation Algorithm
- ============================================================================
-*/
-
 #include <stdio.h>
 
 void worstFit(int blockSize[], int m, int processSize[], int n) {
@@ -66,4 +60,5 @@ int main() {
 
     return 0;
 }
+
 
