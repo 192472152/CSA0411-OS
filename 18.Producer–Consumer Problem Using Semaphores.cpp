@@ -1,6 +1,6 @@
 /* 
  ============================================================================
-    C Program to Simulate Producer–Consumer Problem Using Semaphores
+    C Program to Simulate Producerâ€“Consumer Problem Using Semaphores
  ============================================================================
 */
 
