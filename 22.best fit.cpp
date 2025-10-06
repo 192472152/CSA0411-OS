@@ -1,9 +1,3 @@
-/* 
- ============================================================================
-    C Program to Implement Best Fit Memory Allocation Algorithm
- ============================================================================
-*/
-
 #include <stdio.h>
 
 void bestFit(int blockSize[], int m, int processSize[], int n) {
@@ -66,4 +60,5 @@ int main() {
 
     return 0;
 }
+
 
