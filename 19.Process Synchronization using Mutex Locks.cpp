@@ -1,9 +1,3 @@
-/* 
- ============================================================================
-    C Program to Demonstrate Process Synchronization using Mutex Locks
- ============================================================================
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
@@ -54,4 +48,5 @@ int main() {
     printf("\nFinal value of shared counter: %d\n", shared_counter);
     return 0;
 }
+
 
