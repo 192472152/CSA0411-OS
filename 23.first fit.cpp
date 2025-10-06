@@ -1,9 +1,3 @@
-/* 
- ============================================================================
-    C Program to Implement First Fit Memory Allocation Algorithm
- ============================================================================
-*/
-
 #include <stdio.h>
 
 void firstFit(int blockSize[], int m, int processSize[], int n) {
@@ -58,4 +52,5 @@ int main() {
 
     return 0;
 }
+
 
