@@ -1,10 +1,3 @@
-/*
- ============================================================================
-   C Program to Demonstrate UNIX System Calls for File Management
-   System Calls Used: open(), write(), read(), lseek(), close()
- ============================================================================
-*/
-
 #include <stdio.h>
 #include <fcntl.h>      // for open() and O_* constants
 #include <unistd.h>     // for read(), write(), close(), lseek()
@@ -52,4 +45,5 @@ int main() {
 
     return 0;
 }
+
 
